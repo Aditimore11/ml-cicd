@@ -1,1 +1,3 @@
-The ci-cd of the pipeline is trigger 
+flask
+scikit-learn
+joblib
